@@ -2,12 +2,6 @@ body {
   background-color: #232323;
 }
 
-@font-face {
-  font-family: playzone;
-  src: url(fonts/playzone.ttf);
-}
-
 p {
-  font-family: playzone;
   color: white;
 }
