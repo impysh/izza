@@ -3,29 +3,33 @@ body {
 }
 
 p {
-  color: white;
+  color: black;
 }
 
 #draggable1 {
   width: 150px;
   height: 150px;
   padding: 0.5em;
+  background-color: #ffc2a1;
 }
 
 #draggable2 {
   width: 150px;
   height: 150px;
   padding: 0.5em;
+  background-color: #d2f1ff;
 }
 
 #draggable3 {
   width: 150px;
   height: 150px;
   padding: 0.5em;
+  background-color: #ffc2a1;
 }
 
 #draggable4 {
   width: 150px;
   height: 150px;
   padding: 0.5em;
+  background-color: #ffd2d2;
 }
