@@ -8,28 +8,28 @@ p {
 
 #draggable1 {
   width: 350px;
-  height: 200px;
+  height: 250px;
   padding: 0.5em;
   background-color: #fff8a3;
 }
 
 #draggable2 {
   width: 200px;
-  height: 200px;
+  height: 150px;
   padding: 0.5em;
   background-color: #d2f1ff;
 }
 
 #draggable3 {
   width: 400px;
-  height: 530px;
+  height: 400px;
   padding: 0.5em;
   background-color: #ffc2a1;
 }
 
 #draggable4 {
   width: 400px;
-  height: 240px;
+  height: 270px;
   padding: 0.5em;
   background-color: #ffd2d2;
 }
