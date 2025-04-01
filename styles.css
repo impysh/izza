@@ -4,6 +4,7 @@ body {
 
 p {
   color: black;
+  font-family: "Roboto Mono", monospace;
 }
 
 #draggable1 {
