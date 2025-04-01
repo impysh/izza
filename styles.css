@@ -15,7 +15,7 @@ p {
 #draggable1 {
   width: 350px;
   padding: 1.5em;
-  top: 25px;
+  top: 10px;
   left: 50px;
   background-color: #fff8a3;
 }
@@ -23,7 +23,7 @@ p {
 #draggable2 {
   width: 200px;
   padding: 1.5em;
-  top: 20px;
+  top: 10px;
   left: 85px;
   background-color: #d2f1ff;
 }
@@ -31,7 +31,7 @@ p {
 #draggable3 {
   width: 400px;
   padding: 1.5em;
-  top: 50px;
+  top: 10px;
   left: 600px;
   background-color: #ffc2a1;
 }
@@ -39,7 +39,7 @@ p {
 #draggable4 {
   width: 400px;
   padding: 1.5em;
-  top: 60px;
+  top: 10px;
   left: 1000px;
   background-color: #ffd2d2;
 }
