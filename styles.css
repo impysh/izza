@@ -8,9 +8,7 @@ p {
 
 #draggable1 {
   width: 350px;
-  height: 240px;
-  padding: 0.5em;
-  position: relative;
+  padding: 2em;
   top: 50px;
   left: 50px;
   background-color: #fff8a3;
@@ -18,9 +16,7 @@ p {
 
 #draggable2 {
   width: 200px;
-  height: 130px;
-  padding: 0.5em;
-  position: relative;
+  padding: 2em;
   top: 150px;
   left: 85px;
   background-color: #d2f1ff;
@@ -28,9 +24,7 @@ p {
 
 #draggable3 {
   width: 400px;
-  height: 260px;
-  padding: 0.5em;
-  position: relative;
+  padding: 2em;
   top: 75px;
   left: 600px;
   background-color: #ffc2a1;
@@ -38,9 +32,7 @@ p {
 
 #draggable4 {
   width: 400px;
-  height: 260px;
-  padding: 0.5em;
-  position: relative;
+  padding: 2em;
   top: 100px;
   left: 800px;
   background-color: #ffd2d2;
